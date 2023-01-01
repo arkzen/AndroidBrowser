@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Browser-MVVM</string>
+    <string name="searchbar_hints">Search or type address</string>
+    <string name="facebook_name">Facebook</string>
+    <string name="youtube_name">Youtube</string>
+    <string name="twitter_name">Twitter</string>
+    <string name="instagram_name">Instagram</string>
+    <string name="dribble_name">Dribble</string>
+    <string name="behance_name">Behance</string>
+    <string name="pinterest_name">Pinterest</string>
+    <string name="wikipedia_name">Wikipedia</string>
 </resources>
