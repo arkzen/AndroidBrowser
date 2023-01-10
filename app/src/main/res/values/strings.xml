@@ -9,4 +9,6 @@
     <string name="behance_name">Behance</string>
     <string name="pinterest_name">Pinterest</string>
     <string name="wikipedia_name">Wikipedia</string>
+    <string name="slider_tittle">Spacial Offer</string>
+    <string name="game_slider_tittle">Play Beyond</string>
 </resources>
